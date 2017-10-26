@@ -1,0 +1,8 @@
+{
+    "name": "getparam",
+    "version": "0.0.3",
+    "description": "",
+    "main": "dist/getparams.ts",
+    "types": "dist/getparams.d.ts",
+    "dependencies": {}
+}

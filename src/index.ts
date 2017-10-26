@@ -1,0 +1,1 @@
+import { GetUrl } from "./getparams";
